@@ -6,4 +6,4 @@
 - [x] redux-toolkit \* promise
   - [React Redux Thunk Middleware in Redux Toolkit for Async Actions with Axios
     ](https://www.youtube.com/watch?v=93CR_yURoII)
-- [] redux-toolkit \* promise \* CRUD
+- [ ] redux-toolkit \* promise \* CRUD
